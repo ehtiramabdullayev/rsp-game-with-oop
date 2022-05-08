@@ -8,7 +8,8 @@ requirements.
   + Use of third party libraries is
 acceptable, but ensure they add sufficient value.
   + They are open problems and there is no right or wrong answer.
-Problem
+
+## Problem
 
 Paper-Rock-Scissors is a game for two players. Each player simultaneously opens his/her hand to display
 a symbol:
