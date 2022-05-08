@@ -1,1 +1,4 @@
 # rsp-game-with-oop
+When starting the assignment, please consider the following advice:
+
+We would like candidates to provide a solution as console application and as if it were for a production system. The solution needs to meet the requirements with simple, clean, understandable and extensible code. Testing is important to us, so provide good test coverage. We like candidates to demonstrate the power of Java, for instance; apply design patterns and use object oriented modeling where appropriate. If do you decide to use frameworks or libraries, please ensure they add sufficient value and please explain why you chose to use a particular framework or library in a README file.
