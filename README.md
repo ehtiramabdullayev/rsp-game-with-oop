@@ -24,7 +24,8 @@ The winner is determined by the following schema:
 
 Write a program that plays Paper-Rock-Scissors between the computer and a real player. You should be
 able to play the game n times before the program exits.
-__________________
+
+## Requirements 
 
 When starting the assignment, please consider the following advice:
 
