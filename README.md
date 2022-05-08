@@ -1,6 +1,6 @@
 # rsp-game-with-oop (IMC)
 
-+ General test requirements and instructions:
+## Instructions:
   + Make sure we can compile and run your code
   + The purpose of this test is to evaluate your technical skills, design skills and ability to interpret
 requirements. 
