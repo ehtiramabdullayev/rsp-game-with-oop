@@ -5,7 +5,6 @@ import org.apache.logging.log4j.Logger;
 import org.example.game.Player;
 import org.example.strategy.GameStrategy;
 import org.example.types.ResultType;
-
 import static org.example.types.Constants.YOUR_CHOSE;
 
 public class HumanPlayerImpl implements Player {
