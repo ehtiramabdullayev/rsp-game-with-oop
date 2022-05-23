@@ -14,7 +14,6 @@ public class HumanPlayerImpl implements Player {
     public HumanPlayerImpl(GameStrategy strategy) {
         this.strategy = strategy;
         logger.info(String.format(YOUR_CHOSE, strategy.toString()));
-
     }
 
     @Override
