@@ -1,7 +1,6 @@
 package org.example.types;
 
 import org.junit.jupiter.api.Test;
-
 import static org.junit.jupiter.api.Assertions.*;
 
 public class ChoiceTypeTest {
@@ -27,7 +26,5 @@ public class ChoiceTypeTest {
                     ChoiceType.fromString(paper);
                 });
         assertTrue(thrown.getMessage().contains("does not exist as a choice"));
-
     }
-
 }
