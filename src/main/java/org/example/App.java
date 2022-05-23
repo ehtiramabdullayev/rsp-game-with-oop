@@ -13,9 +13,6 @@ import java.util.Random;
 import java.util.Scanner;
 import static org.example.types.Constants.*;
 
-/**
- * Hello world!
- */
 public class App {
     private static final Logger logger = LogManager.getLogger(App.class);
     private static final Scanner keyboard = new Scanner(System.in);
