@@ -8,9 +8,7 @@ import org.example.strategy.impl.PaperStrategy;
 import org.example.strategy.impl.RockStrategy;
 import org.example.strategy.impl.ScissorsStrategy;
 import org.example.types.ResultType;
-
 import java.util.Random;
-
 import static org.example.types.Constants.*;
 
 public class ComputerPlayerImpl implements Player {
