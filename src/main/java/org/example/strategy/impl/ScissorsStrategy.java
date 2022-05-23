@@ -6,7 +6,6 @@ import org.example.strategy.GameStrategy;
 import org.example.types.ResultType;
 import static org.example.types.Constants.*;
 
-
 public class ScissorsStrategy implements GameStrategy {
     private static final Logger logger = LogManager.getLogger(ScissorsStrategy.class);
 
