@@ -6,5 +6,4 @@ import org.example.types.ResultType;
 public interface Player {
     ResultType playAgainst(Player opponent);
     GameStrategy getStrategy();
-
 }
