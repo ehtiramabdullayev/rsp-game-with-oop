@@ -2,7 +2,6 @@ package org.example.strategy.impl;
 
 import org.example.types.ResultType;
 import org.junit.jupiter.api.Test;
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 
