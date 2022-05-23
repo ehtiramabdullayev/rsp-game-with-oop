@@ -9,10 +9,8 @@ import org.example.game.impl.HumanPlayerImpl;
 import org.example.strategy.GameStrategy;
 import org.example.types.ChoiceType;
 import org.example.types.ResultType;
-
 import java.util.Random;
 import java.util.Scanner;
-
 import static org.example.types.Constants.*;
 
 /**
@@ -55,6 +53,3 @@ public class App {
     }
 
 }
-
-
-
