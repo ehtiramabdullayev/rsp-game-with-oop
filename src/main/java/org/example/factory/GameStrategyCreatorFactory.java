@@ -5,8 +5,8 @@ import org.example.strategy.impl.PaperStrategy;
 import org.example.strategy.impl.RockStrategy;
 import org.example.strategy.impl.ScissorsStrategy;
 import org.example.types.ChoiceType;
-
 import static org.example.types.Constants.STRATEGY_NOT_FOUND_TEXT;
+
 public class GameStrategyCreatorFactory {
     private final GameStrategy rockStrategy = new RockStrategy();
     private final GameStrategy paperStrategy = new PaperStrategy();
