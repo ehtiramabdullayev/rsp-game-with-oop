@@ -24,7 +24,7 @@ public class App {
     public static Player computerChoice() {
         return new ComputerPlayerImpl(new Random());
     }
-
+    
     public static Player userChoice() {
         logger.info(ENTER_YOUR_CHOICE_TEXT);
         String move = keyboard.next();
@@ -32,8 +32,7 @@ public class App {
         GameStrategy gameStrategy = factory.getGameStrategy(choice);
         return new HumanPlayerImpl(gameStrategy);
     }
-
-
+    
     public static void main(String[] args) {
         logger.info(ROUND_ASKING_TEXT);
         try {
@@ -51,5 +50,4 @@ public class App {
             logger.error(e.getMessage());
         }
     }
-
 }
