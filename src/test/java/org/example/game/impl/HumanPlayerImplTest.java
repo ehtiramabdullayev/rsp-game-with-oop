@@ -24,5 +24,4 @@ public class HumanPlayerImplTest {
         humanPlayerImpl.playAgainst(mockCompPlayer);
         Mockito.verify(gameStrategy, Mockito.times(1)).play(Mockito.any());
     }
-
 }
