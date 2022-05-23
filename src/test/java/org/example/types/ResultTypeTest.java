@@ -1,8 +1,6 @@
 package org.example.types;
 
-
 import org.junit.jupiter.api.Test;
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class ResultTypeTest {
@@ -15,5 +13,4 @@ public class ResultTypeTest {
         assertEquals(ResultType.valueOf("LOSS"), loss);
         assertEquals(ResultType.valueOf("DRAW"), draw);
     }
-
 }
