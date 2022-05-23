@@ -1,6 +1,5 @@
 package org.example.game.impl;
 
-
 import org.example.strategy.GameStrategy;
 import org.example.strategy.impl.PaperStrategy;
 import org.example.strategy.impl.RockStrategy;
@@ -12,7 +11,6 @@ import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.mockito.junit.jupiter.MockitoExtension;
-
 import java.util.Random;
 
 @ExtendWith(MockitoExtension.class)
