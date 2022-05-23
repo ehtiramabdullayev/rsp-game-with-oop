@@ -5,7 +5,6 @@ import java.util.Map;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
-
 import static org.example.types.Constants.CHOICE_DOES_NOT_EXISTS_TEXT;
 
 public enum ChoiceType {
