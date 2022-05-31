@@ -1,4 +1,4 @@
-# rsp-game-with-oop (IMC)
+# rsp-game-with-oop
 
 
 ## Instructions:
