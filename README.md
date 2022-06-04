@@ -1,4 +1,4 @@
-# rsp-game-with-oop
+# ROCK PAPER SCISSORS game
 
 
 ## Instructions:
