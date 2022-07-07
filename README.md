@@ -10,7 +10,7 @@ requirements.
 acceptable, but ensure they add sufficient value.
   + They are open problems and there is no right or wrong answer.
 
-## Problem
+## Problem:
 
 Paper-Rock-Scissors is a game for two players. Each player simultaneously opens his/her hand to display
 a symbol:
@@ -26,7 +26,7 @@ The winner is determined by the following schema:
 Write a program that plays Paper-Rock-Scissors between the computer and a real player. You should be
 able to play the game n times before the program exits.
 
-## Requirements 
+## Requirements:
 
 When starting the assignment, please consider the following advice:
 
