@@ -1,4 +1,4 @@
-# ROCK PAPER SCISSORS game with design pattern
+# ROCK PAPER SCISSORS game with design patterns applied
 
 
 ## Instructions:
@@ -6,8 +6,7 @@
   + The purpose of this test is to evaluate your technical skills, design skills and ability to interpret
 requirements. 
   + We value simple, readable and maintainable code. 
-  + Use of third party libraries is
-acceptable, but ensure they add sufficient value.
+  + Use of third party libraries is acceptable, but ensure they add sufficient value.
   + They are open problems and there is no right or wrong answer.
 
 ## Problem:
