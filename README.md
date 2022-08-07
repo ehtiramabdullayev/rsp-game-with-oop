@@ -1,4 +1,4 @@
-# ROCK PAPER SCISSORS game with pattern
+# ROCK PAPER SCISSORS game with design pattern
 
 
 ## Instructions:
