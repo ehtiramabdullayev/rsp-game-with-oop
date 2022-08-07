@@ -21,7 +21,7 @@ public class ComputerPlayerImpl implements Player {
 
     @Override
     public GameStrategy getStrategy() {
-        int randomValue =random.nextInt(3);
+        int randomValue = random.nextInt(3);
         switch (randomValue) {
             case 0:
                 RockStrategy rockStrategy = new RockStrategy();
